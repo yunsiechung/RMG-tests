@@ -51,6 +51,7 @@ script:
   - make ARGS="eg5" run
   - make ARGS="eg6" run
   - make ARGS="eg7" run
+  - make nightly
 
 cache:
   pip: true
