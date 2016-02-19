@@ -26,7 +26,6 @@ script:
   - make ARGS="eg5" run
   - make ARGS="eg6" run
   - make ARGS="eg7" run
-  - make ARGS="solvent_hexane" run
 
 cache:
   pip: true
